@@ -1,6 +1,6 @@
 ---
 title: "Uni-Agent: Train Long-Horizon Agents at Scale"
-date: 2026-09-23
+date: 2026-09-24
 authors:
   - "Yuyang Ding"
   - "Xubo Cao"
